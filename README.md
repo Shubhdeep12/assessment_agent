@@ -1,7 +1,3 @@
----
-title: "Assessment Agent"
----
-
 # Assessment Agent
 
 The **Assessment Agent** is a production-grade tool designed to process various file formats, generate text embeddings, and create assessment questions using a Language Learning Model (LLM) API.
