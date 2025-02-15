@@ -409,7 +409,7 @@ Requirements:
 - Difficulty level: {difficulty}
 - Question type: {question_type}
 - Include correct answers
-- For multiple choice questions, include 4 options
+- For single choice and multiple choice questions, include 4 options
 - Ensure questions test understanding, not just memorization
 """
             # Prepare headers

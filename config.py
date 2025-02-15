@@ -30,7 +30,7 @@ class Config:
     
     # Question Generation Settings
     valid_difficulty_levels: tuple = ('easy', 'medium', 'hard')
-    valid_question_types: tuple = ('single', 'multiple', 'fill', 'matching', 'free_text')
+    valid_question_types: tuple = ('single choice', 'multiple choice', 'fill', 'matching', 'free_text')
     questions_per_assessment: int = 10
     
     @classmethod
