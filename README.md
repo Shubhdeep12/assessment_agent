@@ -1,3 +1,5 @@
+<img src="./logo.svg" width="100%" height="250px">
+
 # Assessment Agent
 
 The **Assessment Agent** is an intelligent AI system that autonomously processes educational content and generates contextually relevant assessment questions. Using advanced natural language processing and machine learning capabilities, it understands content, maintains knowledge in a vector database, and adaptively generates questions based on context and requirements. The agent offers two interactive interfaces: a terminal-based interface and a web-based interface powered by Streamlit.
